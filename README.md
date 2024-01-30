@@ -10,6 +10,8 @@
 Sebe2k04/Sebe2k04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
 ![Sebe2k04's Stats](https://github-readme-stats.vercel.app/api?username=Sebe2k04&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 <br />
 ![Sebe2k04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sebe2k04&theme=gruvbox&hide_border=true)
