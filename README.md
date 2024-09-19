@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebe2k04 , Sebe S
-- 👀 I’m interested in Full stack Web Development -- MERN & NEXT JA
-- 🌱 I’m currently learning JS frameworks , React Native
+- 👀 I’m interested in Full stack Web Development -- MERN & NEXT JS
+- 🌱 I’m currently learning and working JS frameworks ,
 - 💞️ I’m looking to collaborate on High end web projects
 - 📫 How to reach me -- linkedin Sebe Saravanan
 - 😄 CSE student 
