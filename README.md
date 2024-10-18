@@ -19,9 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sebe2k04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sebe2k04&icon=4&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Sebe2k04&label=Profile%20Views&color=2&icon=6&pretty=true" />
 </a>
