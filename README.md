@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 CSE Student | Looking for job<br>👯 I’m looking to collaborate on Software projects<br>🤝 I’m looking for help with free minds<br>🌱 I’m currently learning Full stack development<br>💬 Passionate about web development and working on real time projects<br>⚡ Be a one to motivate others
+🔭 SDE 1 <br>👯 I’m looking to collaborate on Software projects<br>🤝 I’m looking for help with free minds<br>🌱 I’m currently learning Full stack development<br>💬 Passionate about web development and working on real time projects<br>⚡ Be a one to motivate others
 
 
 ## 🌐 Socials:
